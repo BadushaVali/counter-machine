@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    text-align: center;
+}
+body{
+    background-color: lightgreen;
+    
+}
+
+h1{
+    margin: 50px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+}
+h2{ 
+    width: 200px;
+    height: auto;
+    background-color: black;
+    color: red;
+    margin: 25px auto;
+    font-size: 60px;
+    font-family: 'Wallpoet', cursive;
+    border: 5px solid grey;
+}
+button{
+    width: 100px;
+    height: 50px;
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 18px;
+    border-radius: 15px;
+    margin: 10px 10px ;
+}
+
+button:hover{
+    background-color: white;
+
+}
+
